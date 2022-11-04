@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+  }
+
+  .btn_form{
+    background: white ; 
+    border-color:transparent;
+    color: rgb(80, 75, 75);
+    width:60px ;
+    height: 20px;
+  }
+  

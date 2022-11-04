@@ -1,0 +1,178 @@
+.example-spacer {
+  position: absolute;
+  background: transparent;
+  color: white;
+  left: 70px;
+  top:10px;
+}
+
+.btn_menu {
+  position: absolute;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:7px; 
+}
+
+
+.toolbarProperties {
+background-color:   rgb(46, 103, 161);
+height: 100px;
+}
+
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.pos_btn_contact{
+  position: absolute;
+  right: 60px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:10px;
+}
+.pos_btn_filter{
+  position: absolute;
+  right: 450px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:10px;
+}
+
+.pos_btn_update{
+  position: absolute;
+  right: 500px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:10px;
+}
+
+.pos_btn_table{
+  position: absolute;
+  right: 550px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:10px;
+}
+
+.pos_btn_back{
+  position: absolute;
+  right: 600px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:10px;
+}
+
+.pos_btn_all{
+  position: absolute;
+  left: 80px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:70px;
+}
+
+.pos_btn_open{
+  position: absolute;
+  left: 260px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:70px;
+}
+
+.pos_btn_ausentes{
+  position: absolute;
+  left: 440px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:70px;
+}
+
+.pos_btn_citas{
+  position: absolute;
+  left: 620px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:70px;
+}
+
+.pos_btn_execute{
+  position: absolute;
+  left: 750px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:70px;
+}
+
+.pos_btn_close{
+  position: absolute;
+  left: 950px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:70px;
+}
+
+.pos_btn_inf{
+  position: absolute;
+  left: 1110px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:70px;
+}
+
+.pos_btn_req{
+  position: absolute;
+  left: 1260px;
+  background: transparent; 
+  border-color: transparent;
+  color: white;
+  top:70px;
+}
+
+table {
+  width: 100%;
+}
+.btn_form{
+  background: rgb(165, 161, 161) ; 
+  border-color: rgb(80, 75, 75);
+  color: rgb(80, 75, 75);
+  width:60px ;
+  height: 20px;
+}
+
+
+.example-form {
+  min-width: 10px;
+  max-width: 400px;
+  width: 80%;
+  
+}
+
+.example-full-width {
+  width: 65%;
+  left: 1100px;
+  color: white;
+  height: 20%;
+}
+
+.text_zize_input{
+  text-size-adjust: 80%;
+}
